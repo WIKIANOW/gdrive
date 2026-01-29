@@ -6,6 +6,20 @@ A high-performance, modern, and secure **File Management System** built with **C
 
 ![Grid View](./grid_view.webp)
 
+![List View](./list_view.webp)
+
+![Upload File](./upload_file.webp)
+
+![User Manager](./users_manager.webp)
+
+![Add User](./add_user.webp)
+
+![Edit User](./edit_user.webp)
+
+![Account Manager](./account_manager.webp)
+
+![Add Account](./add_account.webp)
+
 ### **Demo Online** [DEMO](https://gdrive.tsc-hpc.workers.dev/)
 
 **Admin account:**
