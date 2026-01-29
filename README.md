@@ -11,7 +11,17 @@
 
 A high-performance, modern, and secure **File Management System** built with **Cloudflare Workers**, **D1 Database**, and **Google Drive API**. This system allows users to leverage Google Drive as a powerful backend storage while providing a custom, elegant, and controlled interface.
 
-
+### **Demo Online** [Cloudflare Workers]((https://gdrive.tsc-hpc.workers.dev/))
+**Admin:**
+ ```bash
+admin
+admin@1234
+ ```
+**Demo:**
+ ```bash
+demo
+demo@1234
+ ```
 
 ## ✨ Key Features
 
@@ -38,28 +48,7 @@ A high-performance, modern, and secure **File Management System** built with **C
 
 ## 🚀 Installation & Setup
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/phucuongds/clouddrive-manager.git](https://github.com/phucuongds/clouddrive-manager.git)
-    ```
-
-2.  **Configure Wrangler:**
-    Update your `wrangler.toml` with your D1 Database ID and Environment Variables.
-
-3.  **Set Secrets:**
-    ```bash
-    wrangler secret put SECRET_KEY
-    ```
-
-4.  **Database Migration:**
-    ```bash
-    wrangler d1 execute your-db-name --file=./schema.sql
-    ```
-
-5.  **Deploy:**
-    ```bash
-    wrangler deploy
-    ```
+...
 
 ## 🛡️ Integrity & Licensing
 
@@ -67,7 +56,7 @@ This project includes a built-in DOM integrity check to protect copyright and ow
 
 ## 🤝 Contribution
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/phucuongds/clouddrive-manager/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/WIKIANOW/gdrive/issues).
 
 ---
 
