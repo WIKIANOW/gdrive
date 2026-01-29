@@ -6,8 +6,8 @@ A high-performance, modern, and secure **File Management System** built with **C
 
 **Admin account:**
  ```bash
-admin
-admin@1234
+ademo
+ademo@1234
  ```
 **Demo account:**
  ```bash
